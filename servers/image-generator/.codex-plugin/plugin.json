@@ -1,7 +1,7 @@
 {
   "name": "image-generator",
   "version": "0.2.0",
-  "description": "When using the generate_image tool, you MUST include the full image URL in your response to the user. The URL is the most important part of the response - without it, the user cannot view the generated image. Always format it as a clickable link.\n\nWhen working with tool results, write down any important information you might need later in your response, as the original tool result may be cleared later.",
+  "description": "MCP server that generates images with OpenAI's image model and returns a link to each image.",
   "author": {
     "name": "7robots"
   },
