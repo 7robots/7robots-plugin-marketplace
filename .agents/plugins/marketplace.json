@@ -29,6 +29,14 @@
       }
     },
     {
+      "name": "kagi-news",
+      "source": "./servers/kagi-news",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_FIRST_USE"
+      }
+    },
+    {
       "name": "selenography-lunar-features-server",
       "source": "./servers/selenography-lunar-features-server",
       "policy": {

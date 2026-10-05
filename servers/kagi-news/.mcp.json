@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kagi-news": {
+      "type": "http",
+      "url": "https://news.mcp.7robots.org/mcp"
+    }
+  }
+}
