@@ -5,6 +5,14 @@
   },
   "plugins": [
     {
+      "name": "dnd-characters",
+      "source": "./servers/dnd-characters",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_FIRST_USE"
+      }
+    },
+    {
       "name": "huit-search",
       "source": "./servers/huit-search",
       "policy": {

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dnd-characters": {
+      "type": "http",
+      "url": "https://dnd.mcp.7robots.org/mcp"
+    }
+  }
+}
