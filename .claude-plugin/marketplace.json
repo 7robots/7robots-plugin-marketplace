@@ -29,6 +29,12 @@
       "version": "0.1.0"
     },
     {
+      "name": "micro-books",
+      "source": "./servers/micro-books",
+      "description": "MCP server for managing Micro.blog book collections. Use these tools to manage bookshelves, add/remove books, and track reading goals.",
+      "version": "0.1.0"
+    },
+    {
       "name": "selenography-lunar-features-server",
       "source": "./servers/selenography-lunar-features-server",
       "description": "MCP server for exploring lunar selenography data. Use these tools to search, filter, and analyze features on the Moon's surface including craters, maria, mountains, and more.",

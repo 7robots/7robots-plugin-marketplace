@@ -1,0 +1,11 @@
+{
+  "name": "micro-books",
+  "description": "MCP server for managing Micro.blog book collections. Use these tools to manage bookshelves, add/remove books, and track reading goals.",
+  "version": "0.1.0",
+  "author": {
+    "name": "7robots"
+  },
+  "keywords": [
+    "mcp"
+  ]
+}

@@ -1,0 +1,10 @@
+# Source of truth for this entry. Edit here, then regenerate with mcp-studio marketplace.
+name: Micro.blog Books
+slug: micro-books
+description: MCP server for managing Micro.blog book collections. Use these tools
+  to manage bookshelves, add/remove books, and track reading goals.
+url: https://books.mcp.7robots.org/mcp
+transport: http
+auth:
+  type: oauth
+version: 0.1.0

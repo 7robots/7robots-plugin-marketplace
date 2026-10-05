@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "micro-books": {
+      "type": "http",
+      "url": "https://books.mcp.7robots.org/mcp"
+    }
+  }
+}
