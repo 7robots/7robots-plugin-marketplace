@@ -1,6 +1,6 @@
 # D&D Characters
 
-MCP server for managing Dungeons & Dragons characters in Cloudflare D1. Use these tools to list, search, create, update, and delete characters. Each character has a name, class, species, level (1-20), and alignment. Characters are addressed by their 24-character hex character id; get an id from dnd_list_characters or dnd_search_characters before calling get/update/delete.
+MCP server for managing Dungeons & Dragons characters: list, search, create, update and delete characters by name, class, species, level and alignment.
 
 ## Install
 
