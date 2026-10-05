@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "huit-search": {
+      "type": "http",
+      "url": "https://huit.mcp.7robots.org/mcp"
+    }
+  }
+}

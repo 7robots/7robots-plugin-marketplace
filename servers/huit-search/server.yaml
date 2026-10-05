@@ -1,0 +1,10 @@
+# Source of truth for this entry. Edit here, then regenerate with mcp-studio marketplace.
+name: HUIT Website Search
+slug: huit-search
+description: MCP server for topic search over the Harvard University IT (HUIT) website,
+  on Cloudflare Workers with Okta OAuth.
+url: https://huit.mcp.7robots.org/mcp
+transport: http
+auth:
+  type: oauth
+version: 0.1.0

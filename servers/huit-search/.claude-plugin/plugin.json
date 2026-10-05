@@ -1,0 +1,11 @@
+{
+  "name": "huit-search",
+  "description": "MCP server for topic search over the Harvard University IT (HUIT) website, on Cloudflare Workers with Okta OAuth.",
+  "version": "0.1.0",
+  "author": {
+    "name": "7robots"
+  },
+  "keywords": [
+    "mcp"
+  ]
+}

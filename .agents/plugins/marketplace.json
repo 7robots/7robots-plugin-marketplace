@@ -3,5 +3,14 @@
   "interface": {
     "displayName": "7robots"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "huit-search",
+      "source": "./servers/huit-search",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_FIRST_USE"
+      }
+    }
+  ]
 }
