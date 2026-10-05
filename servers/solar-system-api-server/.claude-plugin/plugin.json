@@ -1,0 +1,11 @@
+{
+  "name": "solar-system-api-server",
+  "description": "MCP server for exploring solar system data. Use these tools to search, filter, and analyze celestial bodies including planets, moons, asteroids, and comets. You can also calculate real-time positions of objects from any observer location.",
+  "version": "0.2.0",
+  "author": {
+    "name": "7robots"
+  },
+  "keywords": [
+    "mcp"
+  ]
+}

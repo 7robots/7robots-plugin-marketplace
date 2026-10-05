@@ -39,6 +39,12 @@
       "source": "./servers/selenography-lunar-features-server",
       "description": "MCP server for exploring lunar selenography data. Use these tools to search, filter, and analyze features on the Moon's surface including craters, maria, mountains, and more.",
       "version": "0.2.0"
+    },
+    {
+      "name": "solar-system-api-server",
+      "source": "./servers/solar-system-api-server",
+      "description": "MCP server for exploring solar system data. Use these tools to search, filter, and analyze celestial bodies including planets, moons, asteroids, and comets. You can also calculate real-time positions of objects from any observer location.",
+      "version": "0.2.0"
     }
   ]
 }
