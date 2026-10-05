@@ -11,6 +11,14 @@
         "installation": "AVAILABLE",
         "authentication": "ON_FIRST_USE"
       }
+    },
+    {
+      "name": "image-generator",
+      "source": "./servers/image-generator",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_FIRST_USE"
+      }
     }
   ]
 }
