@@ -1,0 +1,11 @@
+{
+  "name": "selenography-lunar-features-server",
+  "description": "MCP server for exploring lunar selenography data. Use these tools to search, filter, and analyze features on the Moon's surface including craters, maria, mountains, and more.",
+  "version": "0.2.0",
+  "author": {
+    "name": "7robots"
+  },
+  "keywords": [
+    "mcp"
+  ]
+}

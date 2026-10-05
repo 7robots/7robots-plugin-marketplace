@@ -15,6 +15,12 @@
       "source": "./servers/image-generator",
       "description": "When using the generate_image tool, you MUST include the full image URL in your response to the user. The URL is the most important part of the response - without it, the user cannot view the generated image. Always format it as a clickable link.\n\nWhen working with tool results, write down any important information you might need later in your response, as the original tool result may be cleared later.",
       "version": "0.2.0"
+    },
+    {
+      "name": "selenography-lunar-features-server",
+      "source": "./servers/selenography-lunar-features-server",
+      "description": "MCP server for exploring lunar selenography data. Use these tools to search, filter, and analyze features on the Moon's surface including craters, maria, mountains, and more.",
+      "version": "0.2.0"
     }
   ]
 }
