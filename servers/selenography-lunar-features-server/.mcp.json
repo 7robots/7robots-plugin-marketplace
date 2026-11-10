@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "selenography-lunar-features-server": {
-      "type": "http",
-      "url": "https://moon.mcp.7robots.org/mcp"
-    }
-  }
-}

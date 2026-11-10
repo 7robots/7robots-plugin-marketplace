@@ -5,56 +5,8 @@
   },
   "plugins": [
     {
-      "name": "dnd-characters",
-      "source": "./servers/dnd-characters",
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_FIRST_USE"
-      }
-    },
-    {
-      "name": "huit-search",
-      "source": "./servers/huit-search",
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_FIRST_USE"
-      }
-    },
-    {
-      "name": "image-generator",
-      "source": "./servers/image-generator",
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_FIRST_USE"
-      }
-    },
-    {
-      "name": "kagi-news",
-      "source": "./servers/kagi-news",
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_FIRST_USE"
-      }
-    },
-    {
-      "name": "micro-books",
-      "source": "./servers/micro-books",
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_FIRST_USE"
-      }
-    },
-    {
-      "name": "selenography-lunar-features-server",
-      "source": "./servers/selenography-lunar-features-server",
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_FIRST_USE"
-      }
-    },
-    {
-      "name": "solar-system-api-server",
-      "source": "./servers/solar-system-api-server",
+      "name": "7robots",
+      "source": "./plugins/7robots",
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "ON_FIRST_USE"

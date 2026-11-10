@@ -1,0 +1,13 @@
+{
+  "name": "7robots",
+  "version": "1.0.0",
+  "description": "The 7robots MCP fleet through one sign-in: lunar features, solar system data, D&D characters, Micro.blog books, Kagi News, HUIT search and image generation.",
+  "author": {
+    "name": "7robots"
+  },
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "7robots"
+  }
+}

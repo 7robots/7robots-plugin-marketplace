@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "image-generator": {
-      "type": "http",
-      "url": "https://images.mcp.7robots.org/mcp"
-    }
-  }
-}

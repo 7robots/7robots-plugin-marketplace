@@ -5,46 +5,10 @@
   },
   "plugins": [
     {
-      "name": "dnd-characters",
-      "source": "./servers/dnd-characters",
-      "description": "MCP server for managing Dungeons & Dragons characters: list, search, create, update and delete characters by name, class, species, level and alignment.",
-      "version": "0.2.0"
-    },
-    {
-      "name": "huit-search",
-      "source": "./servers/huit-search",
-      "description": "MCP server for topic search over the Harvard University IT (HUIT) website, on Cloudflare Workers with Okta OAuth.",
-      "version": "0.1.0"
-    },
-    {
-      "name": "image-generator",
-      "source": "./servers/image-generator",
-      "description": "MCP server that generates images with OpenAI's image model and returns a link to each image.",
-      "version": "0.2.0"
-    },
-    {
-      "name": "kagi-news",
-      "source": "./servers/kagi-news",
-      "description": "Daily news from Kagi News in four sections (World, Science, United States, Boston): list, read and search the day's stories.",
-      "version": "0.1.0"
-    },
-    {
-      "name": "micro-books",
-      "source": "./servers/micro-books",
-      "description": "MCP server for managing Micro.blog book collections. Use these tools to manage bookshelves, add/remove books, and track reading goals.",
-      "version": "0.1.0"
-    },
-    {
-      "name": "selenography-lunar-features-server",
-      "source": "./servers/selenography-lunar-features-server",
-      "description": "MCP server for exploring lunar selenography data. Use these tools to search, filter, and analyze features on the Moon's surface including craters, maria, mountains, and more.",
-      "version": "0.2.0"
-    },
-    {
-      "name": "solar-system-api-server",
-      "source": "./servers/solar-system-api-server",
-      "description": "MCP server for exploring solar system data. Use these tools to search, filter, and analyze celestial bodies including planets, moons, asteroids, and comets. You can also calculate real-time positions of objects from any observer location.",
-      "version": "0.2.0"
+      "name": "7robots",
+      "source": "./plugins/7robots",
+      "description": "The 7robots MCP fleet through one sign-in: lunar features, solar system data, D&D characters, Micro.blog books, Kagi News, HUIT search and image generation.",
+      "version": "1.0.0"
     }
   ]
 }
